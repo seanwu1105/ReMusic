@@ -1,5 +1,5 @@
 # ReMusic
-NCU CSIE - Java Final Project (2016)
+A Java Final Project (2016) in NCU CSIE.
 ## Introduction
 #### A Mini Game via Rebuilding Music Pattern
 1. Listen to the sample track, and memorize the rhythm as many as you can. Headset recommend while playing the game.
