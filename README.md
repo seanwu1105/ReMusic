@@ -2,6 +2,9 @@
 
 A Java Final Project (2016) in NCU CSIE.
 
+<img src="https://i.imgur.com/Fx7YRMu.png">
+<img src="https://i.imgur.com/6WC4dwx.gif">
+
 ## Introduction
 
 #### A Mini Game via Rebuilding Music Pattern
@@ -13,5 +16,8 @@ A Java Final Project (2016) in NCU CSIE.
 This is the final project of *Introduction of Java/C++ and Fundamental Concepts of Computer Science/Engineering* in NCU CSIE, Taiwan.
 
 ## Installation
+
 1. Clone this project.
-2. Use Java interpreter to run [Main.java](src/initialization/Main.java)
+2. Run
+  * For development, use Java interpreter to run [Main.java](src/initialization/Main.java).
+  * For execution only, double click `ReMusic.jar`. Make sure you have installed JRE.
