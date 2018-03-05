@@ -19,5 +19,5 @@ This is the final project of *Introduction of Java/C++ and Fundamental Concepts 
 
 1. Clone this project.
 2. Run
-  * For development, use Java interpreter to run [Main.java](src/initialization/Main.java).
-  * For execution only, double click `ReMusic.jar`. Make sure you have installed JRE.
+  * For development, use Java interpreter to run [`Main.java`](src/initialization/Main.java).
+  * For execution only, double click [`ReMusic.jar`](ReMusic.jar). Make sure you have installed JRE.
